@@ -3,7 +3,7 @@
 
 A comprehensive Tableau dashboard analyzing Adidas sales performance across multiple dimensions including geographic distribution, product categories, retailer partnerships, and seasonal trends.
 
-![Tableau Dashboard](https://raw.githubusercontent.com/sanchita-sr/Tableau/main/Tableau_Dashboard.png)
+![Tableau Dashboard](https://raw.githubusercontent.com/sanchita-sr/Tableau/main/Tableau_Static_Dashboard.png)
 #### 🚀 Explore the Interactive Dashboard
 Click below to dive into real-time insights on Adidas sales.
 
