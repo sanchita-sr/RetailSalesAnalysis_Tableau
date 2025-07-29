@@ -25,4 +25,3 @@ Predictions for - 2022
 
 - **Tableau** – for dashboard creation and visualization
 - **GitHub Pages** – for hosting the public dashboard
-- **Shields.io** – for custom dashboard badge link
